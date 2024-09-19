@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.amberAccent),
         useMaterial3: true,
       ),
-      home: const ResistorCal(),
+      home: ResistorCal(),
     );
   }
 }
